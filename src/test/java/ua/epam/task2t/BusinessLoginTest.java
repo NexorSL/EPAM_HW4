@@ -1,7 +1,9 @@
-package ua.epam.task2;
+package ua.epam.task2t;
 
 import org.junit.Before;
 import org.junit.Test;
+import ua.epam.task2.BusinessLogic;
+import ua.epam.task2.Receipt;
 
 import javax.xml.transform.Result;
 import java.time.LocalDateTime;
