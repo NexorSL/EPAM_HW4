@@ -1,10 +1,10 @@
-package ua.epam.Task2;
+package ua.epam.task2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class AppView {
-    public static void main(String[] args) {
+    public void startApp() {
         BusinessLogic businessLogic = new BusinessLogic();
         double value = 0;
         Scanner in = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package ua.epam.Task2;
+package ua.epam.task2;
 
 import java.time.LocalDateTime;
 

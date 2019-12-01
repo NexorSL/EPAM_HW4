@@ -1,4 +1,4 @@
-package ua.epam.Task1;
+package ua.epam.task1;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

@@ -1,4 +1,4 @@
-package ua.epam.Task1;
+package ua.epam.task1;
 
 public class LongestSubsequence {
 
